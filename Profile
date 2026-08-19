@@ -1,1 +1,0 @@
-worker: python admin_bot.py
